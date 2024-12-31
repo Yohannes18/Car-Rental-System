@@ -1,0 +1,11 @@
+Group 2 : Car Rental System
+       - For more information on the system read the README.md file
+Group member  SEC: E
+    Name                           ID
+1. Yohannes Biruk           ETS 1434/15
+2. Yosef Hassen             ETS 1489/15
+3. Yonas Dula               ETS 1459/15
+4. Yordanos Teshome         ETS 1487/15
+5. Yonas Marboch            ETS 1457/15
+6. Yordanos Gezahegn        ETS 1478/15
+7. Yididya Gezahegn         ETS 1411/15
